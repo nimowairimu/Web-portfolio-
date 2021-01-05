@@ -38,16 +38,7 @@ h3{
   text-align:center;
 
 }
-
-.astyle{
-  background-color: #CB2626;
-}
-
-.estyle{
-  background-color: #6B5B5B;
-}
-
-.wstyle{
-  background-color: #CA8E8E;
-  font-family: Sacramento;
-}
+ h1{
+   font-family:'Comfortaa';
+   font-weight: bold;
+ }
