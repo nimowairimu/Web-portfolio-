@@ -6,6 +6,7 @@
 
 .intro {
   text-align: center;
+  font-size: 50px;
 
 }
 
@@ -45,13 +46,16 @@ h3{
 
 p{
   font-family:'Sacramento';
+  font-size: 30px;
+
 }
 
 .Do{
   font-family: 'Sacramento';
+  font-size: 30px;
 }
 
 .education{
   font-family: 'Sacramento';
-  font-size: 40px;
+  font-size: 30px;
 }
