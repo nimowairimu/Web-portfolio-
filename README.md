@@ -8,7 +8,7 @@ Irene Wairimu Mungai
 It is a landing page for my programming portfolio
 
 # Project setup instructions
- 1. git clone `https://github.com/nimowairimu/web-portfolio-.git`
+ 1. git clone `https://nimowairimu.github.io/Web-portfolio-/`
  1. Extract the cloned file.
   1. cd to web-portfolio folder.
  1.   Launch ``index.html file.``
